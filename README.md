@@ -10,3 +10,4 @@ CREATE TABLE Note (
     content VARCHAR(500),
     name VARCHAR(255)
 );
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/watch?v=GL5WTlMWqiw/0.jpg)](https://www.youtube.com/watch?v=GL5WTlMWqiw) 

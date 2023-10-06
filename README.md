@@ -10,5 +10,5 @@ CREATE TABLE Note (
     content VARCHAR(500),
     name VARCHAR(255)
 );
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/watch?v=GL5WTlMWqiw/1.jpg)](https://www.youtube.com/watch?v=watch?v=GL5WTlMWqiw)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GL5WTlMWqiw/0.jpg)](https://www.youtube.com/watch?v=GL5WTlMWqiw)
 
